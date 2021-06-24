@@ -3,6 +3,6 @@
 # FOX: a neuro-Fuzzy model for process Outcome prediction and eXplanation
 **The repository contains code refered to the work:**
 
-*Vincenzo Pasquadibisceglie, Annalisa Appice, Giovanna Castellano, Donato Malerba, Giuseppe Modugno*
+*Vincenzo Pasquadibisceglie, Giovanna Castellano, Annalisa Appice, Donato Malerba*
 
 [*FOX: a neuro-Fuzzy model for process Outcome prediction and eXplanation*]
