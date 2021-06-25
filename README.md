@@ -6,3 +6,6 @@
 *Vincenzo Pasquadibisceglie, Giovanna Castellano, Annalisa Appice, Donato Malerba*
 
 [*FOX: a neuro-Fuzzy model for process Outcome prediction and eXplanation*]
+
+## Datasets 
+https://drive.google.com/drive/folders/1k4Ylxm0Ee1AisCvy52M9zbrLMS4zrL-g?usp=sharing
